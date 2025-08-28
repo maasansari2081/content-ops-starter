@@ -76,7 +76,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Rs.
+        price: Rs.1001- Up to
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
