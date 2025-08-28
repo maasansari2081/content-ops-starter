@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Maa sansari printers & computer couse",
         "links": [
             {
                 "label": "Careers",
@@ -61,7 +61,7 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "gethub",
             "url": "https://github.com/netlify",
             "icon": "github",
             "type": "Social"

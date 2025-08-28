@@ -12,7 +12,7 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - title: Developers
-        price: Free
+        price: Rs. 50 - 500
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
@@ -27,13 +27,13 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: View More
             url: /
             icon: arrowRight
             iconPosition: right
             style: secondary
             type: Button
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -44,8 +44,8 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Professional
-        price: $99
-        details: per month
+        price: Rs. 501-1000
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
@@ -76,8 +76,8 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Custom
-        details: per month
+        price: Rs.1001- Up to
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
