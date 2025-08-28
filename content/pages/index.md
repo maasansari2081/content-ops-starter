@@ -8,10 +8,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'ज्ञान पनि, सेवा पनि — विश्वास एउटै छानामुनि।'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      हामी आधुनिक प्रविधि र गुणस्तरीय सामग्री प्रयोग गरेर सबै प्रकारका printing
+      सेवाहरू उपलब्ध गराउँछौं, 
+
+      हाम्रो सेवा छिटो, विश्वासिलो र ग्राहकमैत्री छ
+
+       हामी गुणस्तरीय कम्प्युटर शिक्षा प्रदान गर्ने एक विश्वसनीय संस्थान हौं। यहाँ विभिन्न स्तरका विद्यार्थीहरूलाई **Basic to Advanced Computer Courses, Office Package, Graphic Design, Web Technology, Accounting Software, Hardware & Networking** जस्ता सीपमूलक तालिम दिइन्छ। हाम्रो लक्ष्य हरेक विद्यार्थीलाई **व्यावहारिक ज्ञान, दक्षता र रोजगारमुखी शिक्षा** प्रदान गर्नु हो
+
+
+
     actions:
       - label: Get started
         altText: ''
