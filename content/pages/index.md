@@ -4,10 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        हामी सबै प्रकारका Visiting Card, Bill Book, Banner, Flex, Poster,
-        Invitation Card, Sticker, ID Card, Photo Copy, Lamination, Digital Photo
-        Print आदि छिटो र गुणस्तरीय रूपमा उपलब्ध गराउँछौं
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
